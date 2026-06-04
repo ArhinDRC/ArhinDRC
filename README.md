@@ -22,36 +22,40 @@
 
 ## 🛠 Technical Skills
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td align="center">
+<td align="center" width="760">
+
+<br>
 
 ### 💬 Programming Language
 
-![C++](https://img.shields.io/badge/C++-8B5FBF?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-<br>
+<img src="https://img.shields.io/badge/C++-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 ### ⚙️ Technologies
 
-![Git](https://img.shields.io/badge/Git-8B5FBF?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B5FBF?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-8B5FBF?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-8B5FBF?style=for-the-badge\&logo=archlinux\&logoColor=white)
-
-<br>
+<img src="https://img.shields.io/badge/Git-8B5FBF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-8B5FBF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-8B5FBF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch%20Linux-8B5FBF?style=for-the-badge&logo=archlinux&logoColor=white" />
 
 ### 📚 Libraries & Tools
 
-![C++ Standard Library](https://img.shields.io/badge/C++%20Standard%20Library-8B5FBF?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![STL](https://img.shields.io/badge/STL-8B5FBF?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![wxWidgets](https://img.shields.io/badge/wxWidgets-8B5FBF?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-8B5FBF?style=for-the-badge\&logo=qt\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8B5FBF?style=for-the-badge\&logo=mysql\&logoColor=white)
+<img src="https://img.shields.io/badge/STL-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/wxWidgets-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt-8B5FBF?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-8B5FBF?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br>
+<br>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -79,27 +83,41 @@
 
 ## 🎧 Music
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="500">
+<td width="280" align="center">
+
+<a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
+  <img src="https://i.pinimg.com/1200x/a1/cf/b4/a1cfb41a25c573c5f8347ec354e94954.jpg" alt="Spotify Playlist Cover" width="250" />
+</a>
+
+</td>
+<td width="420" align="center">
 
 ### 🎶 My Spotify Playlist
 
-A playlist that reflects my current mood, coding sessions and late-night Arch Linux customization vibes.
-
-<br>
-
-[![Spotify Playlist](https://img.shields.io/badge/Open%20Playlist-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c)
+A playlist for coding sessions, late-night Arch Linux customization and focused development mood.
 
 <br>
 
 <a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
-  <img src="https://img.shields.io/badge/Listen%20on%20Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Listen on Spotify" />
+  <img src="https://img.shields.io/badge/Open%20in%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open in Spotify" />
+</a>
+
+<br>
+<br>
+
+<a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
+  <img src="https://img.shields.io/badge/Click%20to%20Listen-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Click to Listen" />
 </a>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -107,8 +125,17 @@ A playlist that reflects my current mood, coding sessions and late-night Arch Li
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-8B5FBF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ArhinDRC)
-[![Telegram](https://img.shields.io/badge/Telegram-8B5FBF?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Da8Rc9l)
+<a href="https://github.com/ArhinDRC">
+  <img src="https://img.shields.io/badge/GitHub-ArhinDRC-8B5FBF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://t.me/Da8Rc9l">
+  <img src="https://img.shields.io/badge/Telegram-Da8Rc9l-8B5FBF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/Discord-arhind._07923-8B5FBF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: arhind._07923" />
+</a>
 
 </div>
 
