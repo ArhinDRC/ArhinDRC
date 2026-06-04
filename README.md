@@ -88,7 +88,11 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijp5begda46dvrsuiijava)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijip5begda46dvrsuiiljava&cover_image=true&theme=spotify-embed&show_offline=true&background_color=813d9c&interchange=false&profanity=false&hide_remaster=false&bar_color=813d9c&bar_color_cover=false&mode=light">
+  </a>
+</p>
 
 </div>
 
