@@ -83,7 +83,6 @@
   Small projects to improve my understanding of C++, algorithms and system programming basics
 
 ---
-
 ## 🎧 Music
 
 <div align="center">
@@ -100,11 +99,41 @@
 <br>
 
 <a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
-  <img src="https://img.shields.io/badge/My%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  <img src="https://img.shields.io/badge/My%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="My Spotify Playlist" />
 </a>
 
 </td>
 <td align="center" width="520">
+
+<h3>🎶 Coding Playlist</h3>
+
+<p>
+A playlist for coding sessions, Arch Linux customization and late-night development.
+</p>
+
+<a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
+  <img src="https://img.shields.io/badge/Open%20Playlist-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Open Playlist" />
+</a>
+
+<br>
+<br>
+
+<h3>Now Playing on Spotify</h3>
+
+<a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijp5begda46dvrsuiijava&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&hide_remaster=false&bar_color=8B5FBF&bar_color_cover=false&mode=dark&v=5" 
+    alt="Spotify Now Playing" 
+    width="420" 
+  />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ### 🎶 Coding Playlist
 
