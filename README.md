@@ -88,25 +88,10 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="600">
-
-<h3>Currently listening to</h3>
-
-<a href="https://open.spotify.com/">
-  <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijp5begda46dvrsuiijava&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&hide_remaster=false&bar_color=8B5FBF&bar_color_cover=false&mode=dark&v=6" 
-    alt="Spotify Now Playing" 
-    width="460" 
-  />
-</a>
-
-</td>
-</tr>
-</table>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijp5begda46dvrsuiijava\&cover_image=true\&theme=spotify-embed\&show_offline=true\&background_color=121212\&interchange=false\&hide_remaster=false\&bar_color=8B5FBF\&bar_color_cover=false\&mode=dark\&v=10)](https://open.spotify.com/)
 
 </div>
+
 
 ---
 
