@@ -87,8 +87,7 @@
 ## 🎧 Now Playing on Spotify
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijp5begda46dvrsuiijava\&cover_image=true\&theme=spotify-embed\&show_offline=true\&background_color=121212\&interchange=false\&hide_remaster=false\&bar_color=8B5FBF\&bar_color_cover=false\&mode=dark\&v=10)](https://open.spotify.com/)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijp5begda46dvrsuiijava
 
 </div>
 
