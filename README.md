@@ -188,7 +188,7 @@ I enjoy learning, building projects and creating my own digital workspace around
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijip5begda46dvrsuiiljava&cover_image=true&theme=spotify-embed&show_offline=true&background_color=1a5fb4&interchange=false&profanity=false&hide_remaster=false&bar_color=8632ee&bar_color_cover=true&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijip5begda46dvrsuiiljava&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=8632ee&bar_color_cover=true">
   </a>
 </p>
 
