@@ -12,11 +12,116 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 I am an **Electrical Engineering student** with a strong interest in technology, systems and programming
-* 💻 I enjoy programming in **C++** and learning how software works closer to the system level
-* 🐧 I use **Arch Linux** as my main environment and like customizing my workflow
-* 🧠 I am focused on improving my coding skills step by step and building useful projects
-* ⚡ I like combining engineering thinking with programming to create clean and practical solutions
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="470">
+
+<h3>Personal Info</h3>
+
+<p>
+<b>Name:</b> Dmitry
+</p>
+
+<p>
+<b>Age:</b> 19 y.o
+</p>
+
+<p>
+<b>Loves:</b> anime, games, visual novels
+</p>
+
+<p>
+<b>Hobbies:</b> development, writing articles, chess
+</p>
+
+<p>
+I enjoy learning, building projects and creating my own digital workspace around C++, Arch Linux and personal customization.
+</p>
+
+</td>
+<td align="center" width="280">
+
+<img src="https://i.pinimg.com/originals/eb/7c/93/eb7c930de77f4b425ddaf17782162cac.gif" alt="About Me GIF" width="240" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📝 Quote
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="520">
+
+<p>
+<i>
+𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝓃𝑜 𝓅𝓁𝒶𝒸𝑒 𝒻𝑜𝓇 𝓂𝑒 𝑜𝓉𝒽𝑒𝓇 𝓉𝒽𝒶𝓃 𝓉𝒽𝑒 𝒷𝒶𝓉𝓉𝓁𝑒𝒻𝒾𝑒𝓁𝒹.  
+<br><br>
+𝒯𝑜 𝓁𝒾𝓋𝑒 𝒶𝓈 𝐼 𝓅𝓁𝑒𝒶𝓈𝑒, 𝒶𝓃𝒹 𝒹𝒾𝑒 𝒶 𝓈𝑒𝓃𝓈𝑒𝓁𝑒𝓈𝓈 𝒹𝑒𝒶𝓉𝒽.  
+<br><br>
+𝒯𝒽𝒶𝓉 𝒾𝓈 𝓌𝒽𝑜 𝐼 𝒶𝓂. 𝒩𝑜𝓉 𝒶 𝓂𝑒𝓇𝑒 𝓂𝒶𝓃 𝑜𝒻 𝒻𝓁𝑒𝓈𝒽.  
+<br><br>
+𝒲𝒶𝓇 𝒾𝓈 𝓅𝒶𝓇𝓉 𝑜𝒻 𝓂𝓎 𝑒𝓍𝒾𝓈𝓉𝑒𝓃𝒸𝑒.
+</i>
+</p>
+
+</td>
+<td align="center" width="260">
+
+<img src="https://49.media.tumblr.com/636db8f01c0b1ae3259c46a637675ee1/tumblr_ni0vwcRHQ31qd479ro1_400.gif" alt="Quote GIF" width="230" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="240">
+
+<img src="https://i.pinimg.com/originals/8c/65/45/8c65456b5bba6e9800a79cb52ff921bd.gif" alt="Contacts GIF" width="210" />
+
+</td>
+<td align="center" width="540">
+
+<h3>Social Links</h3>
+
+<a href="https://github.com/ArhinDRC">
+  <img src="https://img.shields.io/badge/GitHub-ArhinDRC-8B5FBF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br>
+<br>
+
+<a href="https://t.me/Da8Rc9l">
+  <img src="https://img.shields.io/badge/Telegram-Da8Rc9l-8B5FBF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/Discord-arhind._07923-8B5FBF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: arhind._07923" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -28,14 +133,14 @@
 <tr>
 <td align="center" width="260">
 
-### 💬 Language
+<h3>💬 Language</h3>
 
 <img src="https://img.shields.io/badge/C++-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 </td>
 <td align="center" width="330">
 
-### ⚙️ Technologies
+<h3>⚙️ Technologies</h3>
 
 <img src="https://img.shields.io/badge/Git-8B5FBF?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-8B5FBF?style=for-the-badge&logo=github&logoColor=white" />
@@ -46,7 +151,7 @@
 </td>
 <td align="center" width="330">
 
-### 📚 Libraries & Tools
+<h3>📚 Libraries & Tools</h3>
 
 <img src="https://img.shields.io/badge/STL-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/wxWidgets-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -57,6 +162,8 @@
 </td>
 </tr>
 </table>
+
+<img src="https://i.pinimg.com/originals/4c/8f/a3/4c8fa389f9329ce7b664dec00a1d4f89.gif" alt="Skills GIF" width="420" />
 
 </div>
 
@@ -88,11 +195,24 @@
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijip5begda46dvrsuiiljava&cover_image=true&theme=spotify-embed&show_offline=true&background_color=813d9c&interchange=false&profanity=false&hide_remaster=false&bar_color=813d9c&bar_color_cover=false&mode=dark">
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="280">
+
+<img src="https://i.pinimg.com/736x/cf/e3/36/cfe33622daa42f84d2f807121a3d96c1.jpg" alt="Spotify Image" width="240" />
+
+</td>
+<td align="center" width="520">
+
+<h3>Currently listening to</h3>
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijp5begda46dvrsuiijava" alt="spotify-github-profile" width="420" />
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -133,24 +253,6 @@ A playlist for coding sessions, Arch Linux customization and late-night developm
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ArhinDRC">
-  <img src="https://img.shields.io/badge/GitHub-ArhinDRC-8B5FBF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://t.me/Da8Rc9l">
-  <img src="https://img.shields.io/badge/Telegram-Da8Rc9l-8B5FBF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-<img src="https://img.shields.io/badge/Discord-arhind._07923-8B5FBF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: arhind._07923" />
 
 </div>
 
