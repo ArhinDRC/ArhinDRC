@@ -17,33 +17,13 @@
 <table>
 <tr>
 <td align="left" width="470">
-
-<h3>Personal Info</h3>
-
-<p>
-<b>Name:</b> Dmitry
-</p>
-
-<p>
-<b>Age:</b> 19 y.o
-</p>
-
-<p>
-<b>Loves:</b> anime, games, visual novels
-</p>
-
-<p>
-<b>Hobbies:</b> development, writing articles, chess
-</p>
-
-<p>
+<b>Name:</b> Dmitry<br> <b>Age:</b> 19 y.o<br> <b>Loves:</b> anime, games, visual novels<br> <b>Hobbies:</b> developer, writing articles, chess<br>
 I enjoy learning, building projects and creating my own digital workspace around C++, Arch Linux and personal customization.
-</p>
-
+  
 </td>
 <td align="center" width="280">
 
-<img src="https://i.pinimg.com/originals/eb/7c/93/eb7c930de77f4b425ddaf17782162cac.gif" alt="About Me GIF" width="240" />
+<img src="https://i.pinimg.com/736x/db/6d/97/db6d9793a0c60a2206f78440ecfe0df2.jpg" />
 
 </td>
 </tr>
@@ -59,6 +39,11 @@ I enjoy learning, building projects and creating my own digital workspace around
 
 <table>
 <tr>
+<td align="center" width="260">
+
+<img src="https://i.pinimg.com/736x/6d/64/74/6d6474d5c75a10c29ccb8f498964a370.jpg" alt="Quote Image" width="230" />
+
+</td>
 <td align="center" width="520">
 
 <p>
@@ -72,11 +57,6 @@ I enjoy learning, building projects and creating my own digital workspace around
 𝒲𝒶𝓇 𝒾𝓈 𝓅𝒶𝓇𝓉 𝑜𝒻 𝓂𝓎 𝑒𝓍𝒾𝓈𝓉𝑒𝓃𝒸𝑒.
 </i>
 </p>
-
-</td>
-<td align="center" width="260">
-
-<img src="https://49.media.tumblr.com/636db8f01c0b1ae3259c46a637675ee1/tumblr_ni0vwcRHQ31qd479ro1_400.gif" alt="Quote GIF" width="230" />
 
 </td>
 </tr>
@@ -206,12 +186,11 @@ I enjoy learning, building projects and creating my own digital workspace around
 
 <h3>Currently listening to</h3>
 
-<a <p align="center">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijip5begda46dvrsuiiljava&cover_image=true&theme=spotify-embed&show_offline=true&background_color=1a5fb4&interchange=false&profanity=false&hide_remaster=false&bar_color=8632ee&bar_color_cover=true&mode=dark">
   </a>
-</p>/>
-</a>
+</p>
 
 </td>
 </tr>
@@ -263,7 +242,7 @@ A playlist for coding sessions, Arch Linux customization and late-night developm
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/9a/15/0f/9a150f4edf3aaa3b5ec417fc970c5372.gif" alt="Footer GIF" width="100%" />
+<img src="https://i.pinimg.com/736x/34/4b/7e/344b7e64d74de8030bcbe70b4c691566.jpg" />
 
 ### ✨ Thanks for visiting my profile!
 
