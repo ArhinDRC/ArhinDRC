@@ -176,8 +176,6 @@
 </tr>
 </table>
 
-<img src="https://i.pinimg.com/originals/4c/8f/a3/4c8fa389f9329ce7b664dec00a1d4f89.gif" alt="Skills GIF" width="420" />
-
 </div>
 
 ---
