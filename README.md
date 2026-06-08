@@ -275,7 +275,7 @@ A playlist for coding sessions, Arch Linux customization and late-night developm
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/34/4b/7e/344b7e64d74de8030bcbe70b4c691566.jpg" alt="Footer Image" />
+<img src="https://i.pinimg.com/1200x/21/9d/79/219d7906c40e2f3d8a2f758e2a8501b6.jpg" />
 
 ### ✨ Thanks for visiting my profile!
 
