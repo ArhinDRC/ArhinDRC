@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm ArhinD
 
-<img src="https://i.ibb.co/1YSbm4rr/0c26202d-2956-47d3-9005-d06e965cf480.png" />
+<img src="https://i.ibb.co/1YSbm4rr/0c26202d-2956-47d3-9005-d06e965cf480.png" alt="Profile Banner" width="100%" />
 
 ### ⚡ Electrical Engineering Student | C++ Enthusiast | Arch Linux User
 
@@ -18,24 +18,20 @@
 <tr>
 <td align="left" width="540">
 
-<h2>𝒜𝒷𝑜𝓊𝓉 𝑀𝑒</h2>
+<h2>About Me</h2>
 
-<h3>𝒩𝒶𝓂𝑒: Dmitry</h3>
-
-<h3>𝒜𝑔𝑒: 19 y.o</h3>
-
-<h3>𝐿𝑜𝓋𝑒𝓈: anime, games, visual novels</h3>
-
-<h3>𝐻𝑜𝒷𝒷𝒾𝑒𝓈: development, writing articles, chess</h3>
-
-<br>
+<h3>👤 Name: Dmitry</h3>
+<h3>🎂 Age: 19 y.o</h3>
+<h3>💜 Loves: anime, games, visual novels</h3>
+<h3>♟️ Hobbies: development, writing articles, chess</h3>
 
 <h3>
-𝘐 enjoy learning, building projects and creating my own digital workspace around C++, Arch Linux and personal customization.
+I enjoy learning, creating projects and shaping my own digital world around 
+<b>C++</b>, <b>Arch Linux</b> and personal customization.
 </h3>
 
 </td>
-<td align="center" width="250">
+<td align="center" width="260">
 
 <img src="https://i.pinimg.com/736x/db/6d/97/db6d9793a0c60a2206f78440ecfe0df2.jpg" alt="About Me Image" width="230" />
 
@@ -44,6 +40,7 @@
 </table>
 
 </div>
+
 
 ---
 
@@ -62,29 +59,10 @@
 
 <h2>𝒬𝓊𝑜𝓉𝑒</h2>
 
-<h3>
-<i>
-𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝓃𝑜 𝓅𝓁𝒶𝒸𝑒 𝒻𝑜𝓇 𝓂𝑒 𝑜𝓉𝒽𝑒𝓇 𝓉𝒽𝒶𝓃 𝓉𝒽𝑒 𝒷𝒶𝓉𝓉𝓁𝑒𝒻𝒾𝑒𝓁𝒹.
-</i>
-</h3>
-
-<h3>
-<i>
-𝒯𝑜 𝓁𝒾𝓋𝑒 𝒶𝓈 𝐼 𝓅𝓁𝑒𝒶𝓈𝑒, 𝒶𝓃𝒹 𝒹𝒾𝑒 𝒶 𝓈𝑒𝓃𝓈𝑒𝓁𝑒𝓈𝓈 𝒹𝑒𝒶𝓉𝒽.
-</i>
-</h3>
-
-<h3>
-<i>
-𝒯𝒽𝒶𝓉 𝒾𝓈 𝓌𝒽𝑜 𝐼 𝒶𝓂. 𝒩𝑜𝓉 𝒶 𝓂𝑒𝓇𝑒 𝓂𝒶𝓃 𝑜𝒻 𝒻𝓁𝑒𝓈𝒽.
-</i>
-</h3>
-
-<h3>
-<i>
-𝒲𝒶𝓇 𝒾𝓈 𝓅𝒶𝓇𝓉 𝑜𝒻 𝓂𝓎 𝑒𝓍𝒾𝓈𝓉𝑒𝓃𝒸𝑒.
-</i>
-</h3>
+<h3><i>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝓃𝑜 𝓅𝓁𝒶𝒸𝑒 𝒻𝑜𝓇 𝓂𝑒 𝑜𝓉𝒽𝑒𝓇 𝓉𝒽𝒶𝓃 𝓉𝒽𝑒 𝒷𝒶𝓉𝓉𝓁𝑒𝒻𝒾𝑒𝓁𝒹.</i></h3>
+<h3><i>𝒯𝑜 𝓁𝒾𝓋𝑒 𝒶𝓈 𝐼 𝓅𝓁𝑒𝒶𝓈𝑒, 𝒶𝓃𝒹 𝒹𝒾𝑒 𝒶 𝓈𝑒𝓃𝓈𝑒𝓁𝑒𝓈𝓈 𝒹𝑒𝒶𝓉𝒽.</i></h3>
+<h3><i>𝒯𝒽𝒶𝓉 𝒾𝓈 𝓌𝒽𝑜 𝐼 𝒶𝓂. 𝒩𝑜𝓉 𝒶 𝓂𝑒𝓇𝑒 𝓂𝒶𝓃 𝑜𝒻 𝒻𝓁𝑒𝓈𝒽.</i></h3>
+<h3><i>𝒲𝒶𝓇 𝒾𝓈 𝓅𝒶𝓇𝓉 𝑜𝒻 𝓂𝓎 𝑒𝓍𝒾𝓈𝓉𝑒𝓃𝒸𝑒.</i></h3>
 
 </td>
 </tr>
@@ -112,22 +90,13 @@
 <a href="https://github.com/ArhinDRC">
   <img src="https://img.shields.io/badge/✦%20GitHub-ArhinDRC-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8632EE" alt="GitHub" />
 </a>
-
 <br>
-<br>
-
 <a href="https://t.me/Da8Rc9l">
   <img src="https://img.shields.io/badge/✦%20Telegram-Da8Rc9l-0D1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=8632EE" alt="Telegram" />
 </a>
-
 <br>
-<br>
-
 <img src="https://img.shields.io/badge/✦%20Discord-arhind._07923-0D1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=8632EE" alt="Discord: arhind._07923" />
-
 <br>
-<br>
-
 <img src="https://img.shields.io/badge/Status-Always%20building%20something-8632EE?style=for-the-badge&logo=githubspark&logoColor=white&labelColor=0D1117" alt="Status" />
 
 </td>
@@ -144,11 +113,14 @@
 
 <table>
 <tr>
-<td align="center" width="260">
+<td align="center" width="300">
 
 <h3>💬 Language</h3>
 
 <img src="https://img.shields.io/badge/C++-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-8B5FBF?style=for-the-badge&logo=csharp&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/HTML5-8B5FBF?style=for-the-badge&logo=html5&logoColor=white" />
 
 </td>
 <td align="center" width="330">
@@ -176,6 +148,8 @@
 </tr>
 </table>
 
+<img src="https://i.pinimg.com/originals/4c/8f/a3/4c8fa389f9329ce7b664dec00a1d4f89.gif" alt="Skills GIF" width="420" />
+
 </div>
 
 ---
@@ -191,14 +165,9 @@
 
 ## 📌 Future Projects
 
-*  **Custom Hyprland Config for Arch Linux**
-  A personal desktop configuration focused on aesthetics, productivity and a comfortable workflow
-
-* **Custom Music Player**
-  A simple and stylish music player for listening to local tracks with a clean interface
-
-*  **C++ Practice Projects**
-  Small projects to improve my understanding of C++, algorithms and system programming basics
+* 🐧 **Custom Hyprland Config for Arch Linux** — a personal desktop configuration focused on aesthetics, productivity and comfort
+* 🎵 **Custom Music Player** — a simple and stylish music player for listening to local tracks
+* 🧰 **C++ Practice Projects** — small projects to improve C++, algorithms and system programming basics
 
 ---
 
@@ -248,17 +217,12 @@
 
 <h3>Coding Playlist</h3>
 
-<p>
-A playlist for coding sessions, Arch Linux customization and late-night development.
-</p>
+<p>A playlist for coding sessions, Arch Linux customization and late-night development.</p>
 
 <a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
   <img src="https://img.shields.io/badge/Open%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open Spotify Playlist" />
 </a>
-
 <br>
-<br>
-
 <a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
   <img src="https://img.shields.io/badge/Listen%20on%20Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Listen on Spotify" />
 </a>
@@ -273,8 +237,9 @@ A playlist for coding sessions, Arch Linux customization and late-night developm
 
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/21/9d/79/219d7906c40e2f3d8a2f758e2a8501b6.jpg" />
+<img src="https://i.pinimg.com/1200x/21/9d/79/219d7906c40e2f3d8a2f758e2a8501b6.jpg" alt="Footer Image" />
 
 ### ✨ Thanks for visiting my profile!
 
 </div>
+
