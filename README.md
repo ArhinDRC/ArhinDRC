@@ -349,7 +349,5 @@ Rust · Python · C++ · C# · Arch Linux
     <img src="https://img.shields.io/badge/Personal%20Wall-arhindrc.github.io-B388FF?style=for-the-badge" alt="Personal Wall" />
   </a>
   <br /><br />
-  <img src="./assets/tyy.gif" width="390" alt="D'Ar8c9l animated footer" />
-  <br />
   <sub><samp>open source · linux · education · useful tools · D'Ar8c9l</samp></sub>
 </div>
