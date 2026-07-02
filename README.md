@@ -98,7 +98,6 @@ hope you find something useful here
 </table>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/cf/e3/36/cfe33622daa42f84d2f807121a3d96c1.jpg" alt="Spotify Image" width="220" />
 </p>
 
 ---
