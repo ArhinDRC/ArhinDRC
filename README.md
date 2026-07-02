@@ -160,6 +160,34 @@ hope you find something useful here
 
 </table>
 
+<!-- ━━━━━━━━━━━━━━━━ Spotify Now Playing ━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">˚₊‧꒰ა 🎧 Now Playing on Spotify ໒꒱ ‧₊˚</h2>
+
+<p align="center">
+  <sub>what I'm listening to while coding, reading docs and building D'Ar8c9l</sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <img src="https://i.pinimg.com/1200x/7a/ad/8a/7aad8ad36f9526378e3079a3df29aff9.jpg" alt="Spotify Side Image" width="230" />
+      <br>
+      <sub>late night coding mood</sub>
+    </td>
+    <td align="center" width="520">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijip5begda46dvrsuiiljava&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=613583" alt="Spotify Now Playing" />
+      </a>
+      <br><br>
+      <a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=128e407e11ca4c1e">
+        <img src="https://img.shields.io/badge/Open%20my%20playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open Spotify Playlist" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ---
 
 <div align="center">
