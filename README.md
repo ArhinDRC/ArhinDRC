@@ -154,30 +154,10 @@ hope you find something useful here
   <h2>Spotify Playlist</h2>
 </div>
 
-<table align="center">
-  <tr>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-      <h3>D'Ar8c9l Focus Queue</h3>
-      <p><strong>Coding, reading docs, Linux customization, and building D'Ar8c9l ecosystem.</strong></p>
-      <a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=128e407e11ca4c1e">
-        <img src="https://img.shields.io/badge/Open%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open Spotify Playlist" />
-      </a>
-    </td>
-    <td width="60%" valign="top">
-<pre>
-╭─ playlist preview ───────────────────────────╮
-│ Track 01 — coding mood                       │
-│ Track 02 — late night build                  │
-│ Track 03 — documentation session             │
-│ Track 04 — Arch Linux rice                   │
-│ Track 05 — project focus                     │
-╰──────────────────────────────────────────────╯
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31yrijip5begda46dvrsuiiljava">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31yrijip5begda46dvrsuiiljava" alt="Data Card for Spotify">
+</a>
 
-static preview card · not live Spotify data
-</pre>
-    </td>
-  </tr>
 </table>
 
 ---
