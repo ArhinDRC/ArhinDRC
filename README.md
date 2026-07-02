@@ -1,234 +1,140 @@
 <div align="center">
 
-# 👋 Hi there! I'm ArhinD
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="86" alt="Kyubey gif" />
 
-<img src="https://i.ibb.co/1YSbm4rr/0c26202d-2956-47d3-9005-d06e965cf480.png" alt="Profile Banner" width="100%" />
+  <br />
 
-### ⚡ Electrical Engineering Student | C++ Enthusiast | Arch Linux User
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=B388FF&center=true&vCenter=true&width=720&height=72&lines=Welcome%21+I%27m+ArhinD;Rust+developer;Arch+Linux+user;Building+D%27Ar8c9l+ecosystem"
+    alt="Welcome! I'm ArhinD typing animation"
+  />
+
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=ArhinDRC&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Ecosystem-D%27Ar8c9l-7F52FF?style=for-the-badge" alt="D'Ar8c9l ecosystem" />
 
 </div>
 
----
+<br />
 
-## 🧑‍💻 About Me
+<p align="center">
+  <img src="./assets/ny.png" width="100%" alt="D'Ar8c9l anime developer banner" />
+</p>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="left" width="540">
+<h3>「 D'Ar8c9l Profile Card 」</h3>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+
+<pre>
+╭─────────────────────────────────────────────────────────────╮
+│ Username : ArhinD                                           │
+│ WhoAmI   : Rust developer, Arch Linux user, open source     │
+│            enthusiast, and builder of personal tools.       │
+│ Project  : D'Ar8c9l ecosystem                              │
+│ OS       : Arch Linux                                       │
+│ Focus    : Rust, Python, C++, C#, Linux, web projects,      │
+│            educational tools                                │
+│ Hobbies  : coding, Linux customization, reading docs,       │
+│            building tools, writing articles, anime/manga,   │
+│            improving my setup                               │
+│ Interest : Rust, Linux, open source, cybersecurity          │
+│            education, machine learning, automation,         │
+│            useful software                                  │
+│ Goal     : build a useful personal ecosystem of apps,       │
+│            tools, configs, and websites for everyday users  │
+╰─────────────────────────────────────────────────────────────╯
+
+hope you find something useful here
+</pre>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
 
 <h2>About Me</h2>
 
-<h3>👤 Name: Dmitry</h3>
-<h3>🎂 Age: 19 y.o</h3>
-<h3>💜 Loves: anime, games, visual novels</h3>
-<h3>♟️ Hobbies: development, writing articles, chess</h3>
-
-<h3>
-I enjoy learning, creating projects and shaping my own digital world around 
-<b>C++</b>, <b>Arch Linux</b> and personal customization.
-</h3>
-
-</td>
-<td align="center" width="260">
-
-<img src="https://i.pinimg.com/736x/db/6d/97/db6d9793a0c60a2206f78440ecfe0df2.jpg" alt="About Me Image" width="230" />
-
-</td>
-</tr>
-</table>
-
 </div>
 
+<table>
+  <tr>
+    <td width="36%" align="center">
+      <img src="./assets/ryy.jpg" width="260" alt="ArhinD profile visual" />
+    </td>
+    <td width="64%">
 
----
-
-## 📝 Quote
-
-<div align="center">
+<h3>My Profile ver. D'Ar8c9l</h3>
 
 <table>
-<tr>
-<td align="center" width="260">
-
-<img src="https://i.pinimg.com/736x/6d/64/74/6d6474d5c75a10c29ccb8f498964a370.jpg" alt="Quote Image" width="230" />
-
-</td>
-<td align="center" width="560">
-
-<h2>𝒬𝓊𝑜𝓉𝑒</h2>
-
-<h3><i>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝓃𝑜 𝓅𝓁𝒶𝒸𝑒 𝒻𝑜𝓇 𝓂𝑒 𝑜𝓉𝒽𝑒𝓇 𝓉𝒽𝒶𝓃 𝓉𝒽𝑒 𝒷𝒶𝓉𝓉𝓁𝑒𝒻𝒾𝑒𝓁𝒹.</i></h3>
-<h3><i>𝒯𝑜 𝓁𝒾𝓋𝑒 𝒶𝓈 𝐼 𝓅𝓁𝑒𝒶𝓈𝑒, 𝒶𝓃𝒹 𝒹𝒾𝑒 𝒶 𝓈𝑒𝓃𝓈𝑒𝓁𝑒𝓈𝓈 𝒹𝑒𝒶𝓉𝒽.</i></h3>
-<h3><i>𝒯𝒽𝒶𝓉 𝒾𝓈 𝓌𝒽𝑜 𝐼 𝒶𝓂. 𝒩𝑜𝓉 𝒶 𝓂𝑒𝓇𝑒 𝓂𝒶𝓃 𝑜𝒻 𝒻𝓁𝑒𝓈𝒽.</i></h3>
-<h3><i>𝒲𝒶𝓇 𝒾𝓈 𝓅𝒶𝓇𝓉 𝑜𝒻 𝓂𝓎 𝑒𝓍𝒾𝓈𝓉𝑒𝓃𝒸𝑒.</i></h3>
-
-</td>
-</tr>
+  <tr><td><strong>Username</strong></td><td>ArhinD</td></tr>
+  <tr><td><strong>WhoAmI</strong></td><td>Rust developer. Linux user. Builder of personal tools and educational projects.</td></tr>
+  <tr><td><strong>Project</strong></td><td>D'Ar8c9l ecosystem</td></tr>
+  <tr><td><strong>OS</strong></td><td>Arch Linux</td></tr>
+  <tr><td><strong>Telegram Channel Site</strong></td><td><a href="https://dar8c9l-channel-site.vercel.app/">dar8c9l-channel-site.vercel.app</a></td></tr>
+  <tr><td><strong>GitHub</strong></td><td><a href="https://github.com/ArhinDRC">github.com/ArhinDRC</a></td></tr>
+  <tr><td><strong>Main Focus</strong></td><td>Rust, Python, C++, C#, Linux, web tools, educational security projects</td></tr>
+  <tr><td><strong>Currently Building</strong></td><td>SecurityTheory, Telegram bot tools, article website, useful personal ecosystem</td></tr>
+  <tr><td><strong>Interests</strong></td><td>Open source, Linux, Rust, machine learning, automation, cybersecurity education, self-improvement</td></tr>
+  <tr><td><strong>Hobbies</strong></td><td>Programming, Linux ricing, learning new things, anime/manga, project building</td></tr>
+  <tr><td><strong>Learning</strong></td><td>deeper Rust, Python, C++, C#, ecosystem design, practical software architecture</td></tr>
+  <tr><td><strong>Goal</strong></td><td>build an interconnected ecosystem of apps, configs, tools, and websites that are actually useful</td></tr>
 </table>
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="240">
-
-<img src="https://i.pinimg.com/originals/8c/65/45/8c65456b5bba6e9800a79cb52ff921bd.gif" alt="Contacts GIF" width="210" />
-
-</td>
-<td align="center" width="560">
-
-<h2>𝒮𝑜𝒸𝒾𝒶𝓁 𝐿𝒾𝓃𝓀𝓈</h2>
-
-<a href="https://github.com/ArhinDRC">
-  <img src="https://img.shields.io/badge/✦%20GitHub-ArhinDRC-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8632EE" alt="GitHub" />
-</a>
-<br>
-<a href="https://t.me/Da8Rc9l">
-  <img src="https://img.shields.io/badge/✦%20Telegram-Da8Rc9l-0D1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=8632EE" alt="Telegram" />
-</a>
-<br>
-<img src="https://img.shields.io/badge/✦%20Discord-arhind._07923-0D1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=8632EE" alt="Discord: arhind._07923" />
-<br>
-<img src="https://img.shields.io/badge/Status-Always%20building%20something-8632EE?style=for-the-badge&logo=githubspark&logoColor=white&labelColor=0D1117" alt="Status" />
-
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
-
-</div>
-
----
-
-## 🛠 Technical Skills
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="300">
-
-<h3>💬 Language</h3>
-
-<img src="https://img.shields.io/badge/C++-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-8B5FBF?style=for-the-badge&logo=csharp&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/HTML5-8B5FBF?style=for-the-badge&logo=html5&logoColor=white" />
-
-</td>
-<td align="center" width="330">
-
-<h3>⚙️ Technologies</h3>
-
-<img src="https://img.shields.io/badge/Git-8B5FBF?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-8B5FBF?style=for-the-badge&logo=github&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/VS%20Code-8B5FBF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Arch%20Linux-8B5FBF?style=for-the-badge&logo=archlinux&logoColor=white" />
-
-</td>
-<td align="center" width="330">
-
-<h3>📚 Libraries & Tools</h3>
-
-<img src="https://img.shields.io/badge/STL-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/wxWidgets-8B5FBF?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Qt-8B5FBF?style=for-the-badge&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-8B5FBF?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://i.pinimg.com/originals/4c/8f/a3/4c8fa389f9329ce7b664dec00a1d4f89.gif" alt="Skills GIF" width="420" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-* **Deepening my C++ knowledge** — learning the language more seriously and understanding its core concepts
-* **Building a project portfolio** — creating repositories that show my progress and practical skills
-* **Improving my Linux workflow** — customizing Arch Linux and making my environment more comfortable
-* **Writing cleaner code** — focusing on structure, readability and better programming habits
-
----
-
-## 📌 Future Projects
-
-* 🐧 **Custom Hyprland Config for Arch Linux** — a personal desktop configuration focused on aesthetics, productivity and comfort
-* 🎵 **Custom Music Player** — a simple and stylish music player for listening to local tracks
-* 🧰 **C++ Practice Projects** — small projects to improve C++, algorithms and system programming basics
-
----
-
-## 🎧 Now Playing on Spotify
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="280">
-
-<img src="https://i.pinimg.com/736x/cf/e3/36/cfe33622daa42f84d2f807121a3d96c1.jpg" alt="Spotify Image" width="240" />
-
-</td>
-<td align="center" width="520">
-
-<h3>Currently listening to</h3>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yrijip5begda46dvrsuiiljava&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=8632ee&bar_color_cover=true">
-  </a>
+  <img src="https://i.pinimg.com/736x/cf/e3/36/cfe33622daa42f84d2f807121a3d96c1.jpg" alt="Spotify Image" width="240" />
 </p>
 
-</td>
-</tr>
-</table>
+---
+
+<div align="center">
+
+<h2>Technical Skills</h2>
+
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<br />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
 ---
 
-## 🎶 My Spotify Playlist
-
 <div align="center">
+
+<h2>Spotify Playlist</h2>
 
 <table>
-<tr>
-<td align="center" width="280">
-
-<a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
-  <img src="https://i.pinimg.com/1200x/a1/cf/b4/a1cfb41a25c573c5f8347ec354e94954.jpg" alt="Spotify Playlist Cover" width="245" />
-</a>
-
-</td>
-<td align="center" width="480">
-
-<h3>Coding Playlist</h3>
-
-<p>A playlist for coding sessions, Arch Linux customization and late-night development.</p>
-
-<a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
-  <img src="https://img.shields.io/badge/Open%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open Spotify Playlist" />
-</a>
-<br>
-<a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=ba255436b516428c">
-  <img src="https://img.shields.io/badge/Listen%20on%20Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Listen on Spotify" />
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <strong>My playlist for coding, reading docs, and building projects.</strong>
+      <br /><br />
+      <a href="https://open.spotify.com/playlist/3segHkxwZrY4LY9MrjF6bu?si=128e407e11ca4c1e">
+        <img src="https://img.shields.io/badge/Open%20Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Open Spotify Playlist" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -237,9 +143,172 @@ I enjoy learning, creating projects and shaping my own digital world around
 
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/21/9d/79/219d7906c40e2f3d8a2f758e2a8501b6.jpg" alt="Footer Image" />
-
-### ✨ Thanks for visiting my profile!
+<h2>Project Progress</h2>
 
 </div>
 
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Status</th>
+    <th align="left">Progress</th>
+  </tr>
+  <tr>
+    <td><strong>SecurityTheory</strong></td>
+    <td>Early Stage</td>
+    <td><code>██████░░░░░░░░░░░░░░░░</code></td>
+  </tr>
+  <tr>
+    <td><strong>D'Ar8c9l Channel Site</strong></td>
+    <td>Active</td>
+    <td><code>████████████████░░░░░░</code></td>
+  </tr>
+  <tr>
+    <td><strong>Telegram Bot</strong></td>
+    <td>In Progress</td>
+    <td><code>██████████░░░░░░░░░░░░</code></td>
+  </tr>
+  <tr>
+    <td><strong>Articles Website</strong></td>
+    <td>Planned</td>
+    <td><code>███░░░░░░░░░░░░░░░░░░░</code></td>
+  </tr>
+  <tr>
+    <td><strong>D'Ar8c9l Ecosystem</strong></td>
+    <td>Growing</td>
+    <td><code>████████████░░░░░░░░░░</code></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<h2>This week I spent my time on</h2>
+
+</div>
+
+<table>
+  <tr>
+    <td width="64%" valign="top">
+
+<pre>
+💬 Programming Languages:
+Rust                     2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.00 %
+Python                   1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.00 %
+C++                      58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.00 %
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+
+🐱💻 Projects:
+SecurityTheory           2 hrs 35 mins       █████████████░░░░░░░░░░░░   51.00 %
+TelegramCommunityBot     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   30.00 %
+Portfolio                46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Articles Website         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+</pre>
+
+  </td>
+  <td width="36%" align="center">
+    <img src="./assets/tyy.jpg" width="240" alt="Weekly coding visual" />
+  </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<h2>Most Productive Thursday</h2>
+
+</div>
+
+<table>
+  <tr>
+    <td width="36%" align="center">
+      <img src="./assets/hyy.jpg" width="260" alt="Most productive Thursday visual" />
+    </td>
+    <td width="64%" valign="top">
+
+<pre>
+⚡ Productive Focus:
+SecurityTheory UI        1 hr 40 mins        ████████████░░░░░░░░░░░░░   48.00 %
+Portfolio README         1 hr 05 mins        ███████░░░░░░░░░░░░░░░░░░   31.00 %
+Telegram Bot Planning    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Docs / Notes             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+
+🧠 Main stack:
+Rust · Python · C++ · C# · Arch Linux
+</pre>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<h2>D'Ar8c9l Ecosystem Map</h2>
+
+<table>
+  <tr>
+    <td align="center"><strong>SecurityTheory</strong><br />cybersecurity education</td>
+    <td align="center"><strong>Telegram Tools</strong><br />bots and automation</td>
+    <td align="center"><strong>Articles</strong><br />docs, notes, learning</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Linux Configs</strong><br />daily setup and ricing</td>
+    <td align="center"><strong>Web Projects</strong><br />useful public pages</td>
+    <td align="center"><strong>Personal Apps</strong><br />small tools for real use</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArhinDRC&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="ArhinDRC GitHub stats" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhinDRC&layout=compact&theme=tokyonight&hide_border=true" alt="ArhinDRC top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>Links</h2>
+
+<a href="https://github.com/ArhinDRC">
+  <img src="https://img.shields.io/badge/GitHub-ArhinDRC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://x.com/ArhinDrk">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-ArhinDrk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+</a>
+<a href="https://dar8c9l-channel-site.vercel.app/">
+  <img src="https://img.shields.io/badge/Telegram%20Channel%20Site-D%27Ar8c9l-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel Site" />
+</a>
+<br />
+<a href="https://securitytheory.vercel.app/">
+  <img src="https://img.shields.io/badge/SecurityTheory-Open-8A2BE2?style=for-the-badge" alt="SecurityTheory" />
+</a>
+<a href="https://t.me/Da8RC9lBot">
+  <img src="https://img.shields.io/badge/Telegram%20Bot-Da8RC9lBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+</a>
+<a href="https://arhindrc.github.io/">
+  <img src="https://img.shields.io/badge/Personal%20Wall-arhindrc.github.io-B388FF?style=for-the-badge" alt="Personal Wall" />
+</a>
+
+<br /><br />
+
+<img src="./assets/tyy.gif" width="420" alt="D'Ar8c9l animated footer" />
+
+<br />
+
+<sub><samp>open source · linux · education · useful tools · D'Ar8c9l</samp></sub>
+
+</div>
