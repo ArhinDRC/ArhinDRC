@@ -29,8 +29,8 @@
 ╭─────────────────────────────────────────────────────────────╮
 │ Username : ArhinD                                           │
 │ WhoAmI   : Rust developer, Arch Linux user, open source     │
-│            enthusiast, and builder of personal tools.       │
-│ Project  : D'Ar8c9l ecosystem                              │
+│            enthusiast                                       │
+│ Project  : D'Ar8c9l ecosystem                               │
 │ OS       : Arch Linux                                       │
 │ Focus    : Rust, Python, C++, C#, Linux, web projects,      │
 │            educational tools                                │
